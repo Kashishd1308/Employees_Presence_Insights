@@ -1,6 +1,6 @@
 # Employee Presence Insights Dashboard📊
 An interactive HR analytics dashboard built using **Power BI** to analyze employee attendance data, including **Presence %, Sick Leave %, and Work From Home %** across different dates and weekdays.
-This project transforms raw Excel attendance records into actionable visual insights to help HR teams understand and manage employee attendance trends over time.
+This project transforms raw Excel attendance records into actionable visual insights to help teams understand and manage employee attendance trends over time.
 -  Total records processed: 6,400+  
 -  Metrics built: Presence %, SL %, WFH %, Day-wise & Weekly breakdown  
 -  Tools used: Power BI, Excel, DAX, Power Query
