@@ -6,7 +6,7 @@ This project transforms raw Excel attendance records into actionable visual insi
 -  Tools used: Power BI, Excel, DAX, Power Query
 
 
-**Features**
+**Features-**
 
 - 📊 Presence, Sick Leave (SL), and WFH % trends across days and weeks
 - 🔁 Dynamic visuals filtering by month and day of the week
@@ -14,7 +14,7 @@ This project transforms raw Excel attendance records into actionable visual insi
 - ⚙️ DAX-based metrics to compute SL & WFH categories using SWITCH logic
 
 
-**The data used in this dashboard was based on an attendance sheet with custom codes with their meanings like:**  
+**The data used in this dashboard was based on an attendance sheet with custom codes with their meanings like-**  
  P - Present  
  SL - Sick Leave               
  WFH - Work From Home           
@@ -26,7 +26,7 @@ These codes were mapped in Power BI using DAX logic for accurate reporting.
 
 
 
-**Tools used:** 
+**Tools used-** 
 - Microsoft Excel (Data prep)
 - Power BI Desktop (Dashboard & Modeling)
 - DAX (Custom calculated columns & measures)
